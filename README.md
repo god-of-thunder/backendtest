@@ -1,1 +1,3 @@
-# backendtest
+第一題sysbench壓力測試本地端mysql結果如附件
+
+第三題crontap排程每5分鐘perl開txt檔檢查log，每1分鐘php連接mysql確認狀態並儲存log.txt
